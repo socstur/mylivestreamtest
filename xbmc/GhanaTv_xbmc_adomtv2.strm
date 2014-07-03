@@ -1,4 +1,4 @@
-rtmp://skylite.pointcdn.net playpath=skylite/ams/adome swfUrl=http://files.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/adome-tv
+rtmp://skylite.pointcdn.net playpath=skylite/ams/adome swfUrl=http://files.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/adome-tv/
 rtmp://fms.streamafrik.com:1935/view/12_252/ playpath=stream12 swfUrl=http://www.streamafrik.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.26 pageUrl=http://www.streamafrik.com/show/adomtv
 rtmp://fms.myliveafricatv.com/view/186_273/ playpath=stream186 swfUrl=http://www.myliveafricatv.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.26 pageUrl=http://www.myliveafricatv.com/show/multitv
 C:\Users\mini\Desktop\xbmc_streams\Change_Channel.mp4
