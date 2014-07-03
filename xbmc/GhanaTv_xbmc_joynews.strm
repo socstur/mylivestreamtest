@@ -1,4 +1,4 @@
-rtmp://streamer.skylitecdn.com playpath=skylite/ams/joyenews swfUrl=http://www.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/joy-news
+rtmp://skylite.pointcdn.net playpath=skylite/ams/joyenews swfUrl=http://www.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/joy-news/
 rtmp://fms.streamafrik.com:1935/view/15_252/ playpath=stream15 swfUrl=http://www.streamafrik.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.26 pageUrl=http://www.streamafrik.com/show/joy-news
 rtmp://fms.myliveafricatv.com/view/185_271/ playpath=stream185 swfUrl=http://www.myliveafricatv.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.26 pageUrl=http://www.myliveafricatv.com/show/joynews
 
