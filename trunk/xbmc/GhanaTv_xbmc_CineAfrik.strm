@@ -1,2 +1,3 @@
-rtmp://fms.streamafrik.com:1935/view/10_252/ playpath=stream10 swfUrl=http://www.streamafrik.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.26 pageUrl=http://www.streamafrik.com/show/cine-afrik
+rtmp://wms.streamafrik.com:1935/rtmp_streamaflive/10/ playpath=mainstream swfUrl=http://www.streamafrik.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.11 pageUrl=http://www.streamafrik.com/show/cine-afrik app=rtmp_streamaflive/10/
+
 Select Video
