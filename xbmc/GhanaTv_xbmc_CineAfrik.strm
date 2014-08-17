@@ -1,2 +1,4 @@
 rtmp://skylite.pointcdn.net playpath=skylite/ams/joyenews swfUrl=http://www.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/joy-news/
+rtmp://wms.streamafrik.com:1935/rtmp_streamaflive/48/ playpath=mainstream swfUrl=http://www.streamafrik.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.11 pageUrl=http://www.streamafrik.com/show/royal-tv
+rtmp://wms.streamafrik.com:1935/rtmp_streamaflive/10/ playpath=mainstream swfUrl=http://www.streamafrik.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.11 pageUrl=http://www.streamafrik.com/show/cine-afrik
 Select Video
