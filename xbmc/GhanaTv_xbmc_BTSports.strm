@@ -1,2 +1,2 @@
-rtmpe://play.finecast.tv/live playpath=hqbt1 swfUrl=http://www.finecast.tv/player/player.swf live=1 pageUrl=http://www.finecast.tv/
+rtmp://wms.streamafrik.com:1935/rtmp_streamaflive/48/ playpath=mainstream swfUrl=http://www.streamafrik.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.11 pageUrl=http://www.streamafrik.com/show/royal-tv app=rtmp_streamaflive/48/
 Select Video
