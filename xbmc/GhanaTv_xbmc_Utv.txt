@@ -1,0 +1,2 @@
+rtmp://wms.streamafrik.com:1935/show_streamaflive/13/ playpath=mainstream swfUrl=http://d3kedutmscl43l.cloudfront.net/PlayerV8_1/Player/Player.swf pageUrl=http://www.ghanatvon.com/utv-ghana.html
+Select Video
