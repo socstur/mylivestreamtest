@@ -1,5 +1,5 @@
 rtmp://ams001.pointcdn.net playpath=skylite/ams/ghanatv swfUrl=http://files.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/gtv/
-rtmp://fms.myliveafricatv.com/view/184_275/ playpath=stream184 swfUrl=http://www.myliveafricatv.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.26 pageUrl=http://www.myliveafricatv.com/show/gtv
+rtmp://skylite.pointcdn.net playpath=skylite/ams/ghanatv swfUrl=http://tv.filmover.com/jwp5/player.swf pageUrl=http://www.filmover.com/gh/gtv.html
 rtmp://fms.streamafrik.com:1935/view/16_252/ playpath=stream16 swfUrl=http://www.streamafrik.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.26 pageUrl=http://www.streamafrik.com/show/gtv
 rtmp://fms.myliveafricatv.com/view/184_275/ playpath=stream184 swfUrl=http://www.myliveafricatv.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.26 pageUrl=http://www.myliveafricatv.com/show/gtv
 Select Video
