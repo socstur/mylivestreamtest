@@ -1,2 +1,5 @@
 rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/182 playpath=mainstream swfUrl=http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.9 live=true timeout=15 pageUrl=http://www.myliveafricatv.com/show/tv3
+rtmp://wms.myliveafricatv.com:1935/rtmp_mlalive/182/ playpath=mainstream swfUrl=http://tv.filmover.com/jwp5/player.swf pageUrl=http://www.filmover.com/gh/tv3.html
+rtmp://fms.streamafrik.com:1935/view/9_252/ playpath=stream9 swfUrl=http://www.streamafrik.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.26 pageUrl=http://www.streamafrik.com/show/tv3
+rtmp://fms.myliveafricatv.com/view/182_271/ playpath=stream182 swfUrl=http://www.myliveafricatv.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.26 pageUrl=http://www.myliveafricatv.com/show/tv3
 Select Video
