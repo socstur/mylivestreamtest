@@ -1,4 +1,5 @@
 rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/329/ playpath=mainstream swfUrl=http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf pageUrl=http://www.myliveafricatv.com/show/kessben live=true timeout=15
+rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/329/ playpath=mainstream swfUrl=http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf pageUrl=http://www.myliveafricatv.com/show/kessben live=true timeout=15
 rtmp://skylite.pointcdn.net playpath=skylite/ams/gtvsports swfUrl=http://www.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/gtv-sports/
 rtmp://ams001.pointcdn.net playpath=skylite/ams/gtv-sports swfUrl=http://www.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/gtv-sports/
 rtmp://fms.streamafrik.com:1935/view/31_151/ playpath=stream31 swfUrl=http://www.streamafrik.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.26 pageUrl=http://www.streamafrik.com/show/gtv-sports-plus
