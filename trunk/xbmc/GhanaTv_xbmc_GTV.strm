@@ -1,3 +1,4 @@
+http://wms.myliveafricatv.com:1935/show_mlalive/330/mainstream/playlist.m3u8
 rtmp://skylite.pointcdn.net playpath=skylite/ams/gtv swfUrl=http://www.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/gtv/
 rtmp://ams001.pointcdn.net playpath=skylite/ams/ghanatv swfUrl=http://files.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/gtv/
 rtmp://skylite.pointcdn.net playpath=skylite/ams/ghanatv swfUrl=http://tv.filmover.com/jwp5/player.swf pageUrl=http://www.filmover.com/gh/gtv.html
