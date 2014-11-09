@@ -1,4 +1,4 @@
-rtmp://skylite.pointcdn.net playpath=skylite/ams/adm swfUrl=http://files.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/adome-tv/
 rtmp://ams001.pointcdn.net playpath=skylite/ams/adome swfUrl=http://files.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/adome-tv/
 rtmp://wms.streamafrik.com:1935/show_streamaflive/12/ playpath=mainstream swfUrl=http://tv.filmover.com/jwp5/player.swf pageUrl=http://www.filmover.com/gh/adom.html
+rtmp://skylite.pointcdn.net playpath=skylite/ams/adm swfUrl=http://files.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/adome-tv/
 Select Video
