@@ -1,2 +1,2 @@
-rtmp://wms.streamafrik.com:1935/show_streamaflive/13/ playpath=mainstream swfUrl=http://d3kedutmscl43l.cloudfront.net/PlayerV8_1/Player/Player.swf pageUrl=http://www.ghanatvon.com/utv-ghana.html
+rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/317 playpath=mainstream swfUrl=http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.9 live=true timeout=15  pageUrl=http://www.myliveafricatv.com/show/cine-afrik
 Select Video
