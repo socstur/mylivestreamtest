@@ -1,4 +1,5 @@
 rtmp://skylite.pointcdn.net playpath=skylite/ams/joyenews swfUrl=http://www.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/joy-news/
+rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/334/ playpath=mainstream swfUrl=http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf pageUrl=http://www.myliveafricatv.com/show/bta live=true timeout=15
 http://skylite.pointcdn.net/skylite/ams/joynews/index.m3u8
 rtmp://skylite.pointcdn.net playpath=skylite/ams/joyenews swfUrl=http://www.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/joy-news/
 rtmp://ams001.pointcdn.net playpath=skylite/ams/joyenews swfUrl=http://www.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/joy-news/
