@@ -1,4 +1,5 @@
 rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/320 playpath=mainstream swfUrl=http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf pageUrl=http://www.myliveafricatv.com/show/asedatv live=true timeout=15
+http://xprecious_tvx.api.channel.livestream.com/3.0/playlist.m3u8
 rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/321 playpath=mainstream swfUrl=http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.9 live=true timeout=15 pageUrl=http://www.myliveafricatv.com/show/dominion1-tv
 rtmp://skylite.pointcdn.net playpath=skylite/ams/hb swfUrl=http://tv.filmover.com/jwp5/player.swf pageUrl=http://www.filmover.com/gh/homebase.html
 rtmp://fms.streamafrik.com:1935/view/27_252/ playpath=stream27 swfUrl=http://www.streamafrik.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.26 pageUrl=http://www.streamafrik.com/show/homebase-tv
