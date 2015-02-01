@@ -1,4 +1,4 @@
-rtmp://fml.12BC9.kappacdn.net/2012BC9/default/ adm_1200?f1eca87ea8908fd73af769d925d7bb787d9aca5cd15a3e1f1dcbfd3b4a347d28335e08f0627cbb90e9008538b52fb8afbc22812ccb00d0879837 http://p.jwpcdn.com/6/5/jwplayer.flash.swf http://www.ghanalive.tv/adome-tv/
+rtmp://fml.12BC9.kappacdn.net/2012BC9/default/ playpath=adm_1200?f1eca87ea8908fd73af769d925d7bb787d9aca5cd15a3e1f1dcbfd3b4a347d28335e08f0627cbb90e9008538b52fb8afbc22812ccb00d0879837 swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf pageUrl=http://www.ghanalive.tv/adome-tv/
 http://wms.myliveafricatv.com:1935/show_mlalive/186/mainstream/index.m3u8
 rtmp://ams001.pointcdn.net playpath=skylite/ams/adome swfUrl=http://files.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/adome-tv/
 rtmp://wms.streamafrik.com:1935/show_streamaflive/12/ playpath=mainstream swfUrl=http://tv.filmover.com/jwp5/player.swf pageUrl=http://www.filmover.com/gh/adom.html
