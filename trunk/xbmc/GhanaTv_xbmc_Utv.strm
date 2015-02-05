@@ -1,3 +1,4 @@
 rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/326/ playpath=mainstream swfUrl=http://tv.filmover.com/jwp5/player.swf pageUrl=http://live.ramalin.com/gh/capitaltv.html live=true timeout=15
+http://xprecious_tvx.api.channel.livestream.com/3.0/playlist.m3u8
 rtmp://wms.streamafrik.com:1935/show_streamaflive/13/ playpath=mainstream swfUrl=http://d3kedutmscl43l.cloudfront.net/PlayerV8_1/Player/Player.swf pageUrl=http://www.ghanatvon.com/utv-ghana.html
 Select Video
