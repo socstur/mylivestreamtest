@@ -1,3 +1,6 @@
+rtmpt://streaming.atvgh.com:1930/live playpath=livestream swfUrl=http://streaming.atvgh.com:1930/swfs/SampleMediaPlayback.swf pageUrl=http://www.atvgh.com/watch.php live=true timeout=15
 rtmp://78.129.189.30/edge3/BenTV playpath=BenTV swfUrl=http://tv.filmover.com/jwp5/player.swf pageUrl=http://www.ghanatvon.com/ben-tv.html
 http://xprecious_tvx.api.channel.livestream.com/3.0/playlist.m3u8
+http://rfe2-r1.alldigital.net/lmjc3561?type=.flv
+http://sc7.mystreamserver.com:8002
 Select Video
