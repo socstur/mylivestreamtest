@@ -1,5 +1,6 @@
 http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/TvAfrica/tvafrica_1200.m3u8?e8eedca68f37680b7c97ddc3278a9d76629f91dd995c9374eb4be212594b7973b286c2eb1dd046afe00236c804da7eb20306399c2cec01cb88e1
 rtmp://41.66.252.206:1935/live/ playpath=KessbenTV swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://kessbentv.com/live/ live=true timeout=15
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=sw4hmqVPe0E
 rtmp://skylite.pointcdn.net playpath=skylite/ams/tvafrica swfUrl=http://www.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/tv-africa-stream/
 http://xprecious_tvx.api.channel.livestream.com/3.0/playlist.m3u8
 rtmp://wms.myliveafricatv.com:1935/ app=rtmp_mlalive/222 playpath=mainstream swfUrl=http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.9 live=true timeout=15 pageUrl=http://www.myliveafricatv.com/show/tvafrica
