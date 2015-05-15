@@ -1,4 +1,5 @@
 http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/GhanaTV/ghanatv_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=sw4hmqVPe0E
 http://wms.myliveafricatv.com:1935/show_mlalive/330/mainstream/playlist.m3u8
 http://xprecious_tvx.api.channel.livestream.com/3.0/playlist.m3u8
 rtmp://skylite.pointcdn.net playpath=skylite/ams/gtv swfUrl=http://www.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/gtv/
