@@ -1,4 +1,4 @@
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=BIiWzuRnmFs
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=p1IG50OvsMY
 rtmp://fml.12BC9.kappacdn.net/2012BC9/default/ playpath=adm_1200?f1eca87ea8908fd73af769d925d7bb787d9aca5cd15a3e1f1dcbfd3b4a347d28335e08f0627cbb90e9008538b52fb8afbc22812ccb00d0879837 swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf pageUrl=http://www.ghanalive.tv/adome-tv/ live=true timeout=15
 http://xprecious_tvx.api.channel.livestream.com/3.0/playlist.m3u8
 rtmp://fml.12BC9.kappacdn.net/2012BC9/default/ playpath=adm_1200?f1eca87ea8908fd73af769d925d7bb787d9aca5cd15a3e1f1dcbfd3b4a347d28335e08f0627cbb90e9008538b52fb8afbc22812ccb00d0879837 swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf pageUrl=http://www.ghanalive.tv/adome-tv/
@@ -8,4 +8,5 @@ rtmp://wms.streamafrik.com:1935/show_streamaflive/12/ playpath=mainstream swfUrl
 rtmp://skylite.pointcdn.net playpath=skylite/ams/adm swfUrl=http://files.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/adome-tv/
 http://rfe2-r1.alldigital.net/lmjc3561?type=.flv
 http://sc7.mystreamserver.com:8002
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=BIiWzuRnmFs
 Select Video
