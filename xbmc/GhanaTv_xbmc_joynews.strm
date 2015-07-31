@@ -1,7 +1,4 @@
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=MAsVI2B3J4k
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZmOZ-E3Oa0U
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=IwzM9LlmDmU
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=sw4hmqVPe0E
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=k6Ur4y39T80
 rtmpt://streaming.atvgh.com:8000/live playpath=livestream swfUrl=http://streaming.atvgh.com:8000/swfs/SampleMediaPlayback.swf pageUrl=http://www.businesstvafrica.com/watch.php live=true timeout=15
 rtmp://fml.12BC9.kappacdn.net/2012BC9/default/ playpath=joyenews_1200?f1eca87ea8908fd73af769d925d7bb787d9aca5cd15a3e1f1dcbfd3b4a347d28335e08f0627cbb90e9008538b52fb8afbc22812ccb00d0879837 swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf pageUrl=http://www.ghanalive.tv/joy-news/ live=true timeout=15
 rtmp://skylite.pointcdn.net playpath=skylite/ams/joyenews swfUrl=http://www.ghanalive.tv/secure-player/player.swf pageUrl=http://www.ghanalive.tv/joy-news/
@@ -15,5 +12,4 @@ rtmp://fms.streamafrik.com:1935/view/15_252/ playpath=stream15 swfUrl=http://www
 rtmp://fms.myliveafricatv.com/view/185_271/ playpath=stream185 swfUrl=http://www.myliveafricatv.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.26 pageUrl=http://www.myliveafricatv.com/show/joynews
 http://rfe2-r1.alldigital.net/lmjc3561?type=.flv
 http://sc7.mystreamserver.com:8002
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=7emfTuNxmNA
 Select Video
